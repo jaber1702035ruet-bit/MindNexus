@@ -1,0 +1,6 @@
+{
+  "name": "MindNexus",
+  "description": "Collaborative mind-mapping platform with real-time sync, AI assistance, and professional styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
